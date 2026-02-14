@@ -67,7 +67,7 @@ Blenderで**選択中のメッシュをまとめて解析**し、トポロジの
 3. `Edit > Preferences > Add-ons > Install...`
 4. ZIPを選択してインストール
 5. Add-ons一覧で **Mesh NG Checker** を有効化 ✅
-
+Blender 4.2+ / 4.5: Preferences → Add-ons → 右上メニュー → Install from Disk… からZIPを選択
 ---
 
 ## Usage
@@ -129,6 +129,7 @@ YourName
 
 
 (link) GitHub: https://github.com/xxxxx
+
 
 
 
