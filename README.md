@@ -43,9 +43,11 @@ Select Boundary：Boundaryエッジを選択
 
 Demo（任意：後で差し替え）
 
-スクショ：images/panel.png
+[UI Panel](images/Panel_UI.png)
 
-スクショ：images/report.png
+[Report](images/Report.png)
+
+[Selection](images/selection.png)
 
 GIF/動画：images/demo.gif
 
@@ -135,5 +137,6 @@ MIT License（例）
 Author
 
 YourName
+
 
 (link) GitHub: https://github.com/xxxxx
